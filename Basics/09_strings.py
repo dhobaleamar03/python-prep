@@ -1,3 +1,5 @@
+#strings followings
+
 name = input("Enter your name: ")
 
 print("Uppercase:", name.upper())
